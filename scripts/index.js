@@ -4,7 +4,7 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'January 24, 2022',
+  birthdate: 'May 04, 2023',
   name: '  Khaing Hnin Wai✨'
 };
 
